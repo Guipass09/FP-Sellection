@@ -1,4 +1,4 @@
-Um projeto Simples para demonstrar um pouco da minha experiençia com Desenvolvimento Web.
+Um projeto Simples para demonstrar um pouco da minha experiencia com Desenvolvimento Web.
 
 O projeto teve grande foco na estilização e na animação realizada com o Js onde os componentes são trocados em tempos sincronizados.
 
